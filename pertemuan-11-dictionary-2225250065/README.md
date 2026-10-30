@@ -1,7 +1,7 @@
 # Pertemuan 11 - Dictionary/Map
-Nama: Rohelis
-NIM: 2225250064
-Kelas: 3B
+Nama: Putri Ariyanti
+NIM: 2225250065
+Kelas: 3A
 
 ## Tujuan
 Memodelkan data pendidikan menggunakan dictionary dan pasangan key-value.
